@@ -8,7 +8,6 @@ The Weather Extension is a Chrome extension that displays weather information fo
 - Shows weather description and wind speed
 - Dynamically changes background color based on weather conditions
 - Uses weather icons for visual representation
-- Made with ❤️ by Anushka Kundu
 
 ## Installation
 
