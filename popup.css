@@ -1,0 +1,50 @@
+body {
+  width: 300px;
+  height: auto;
+  font-family: Arial, sans-serif;
+  overflow: hidden; /* Prevent vertical scroll */
+}
+
+.container {
+  /* padding: 10px; */
+  text-align: center;
+  background-color: #b2d4ef;
+  height: 250px; /* Adjust the height as needed */
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.weather-info {
+  margin-top: -2px;
+}
+
+.weather-info #temperature {
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+p {
+  margin: 2px 0;
+  display: inline;
+  font-size: 18px;
+}
+#icon {
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+}
+.temperature-info {
+  margin-top: -25px;
+  margin-bottom: 8px;
+}
+.fa-thermometer-half {
+  font-size: xx-large;
+}
+#credit {
+  font-size: 12px;
+  top: 30px;
+}
+p a {
+  color: white;
+}
