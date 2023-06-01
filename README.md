@@ -25,6 +25,8 @@ The Weather Extension is a Chrome extension that displays weather information fo
 3. The background color changes based on weather conditions.
 4. The weather icon, temperature, location, description, and wind speed are shown.
 
+Note: Get your own API key from https://openweathermap.org/api and replace it in line 14 of `popup.js` file. The current API is specific to the owner and woudnot work for other users.
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
